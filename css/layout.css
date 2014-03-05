@@ -15,8 +15,9 @@ table {
   background-image: url("../image/bg_tbody.png");
 }
 thead {
+  text-align: center;
   color: rgba(227,198,158,1);
-  background-color: rgba(116,93,64,0.9);
+  background-color: rgba(100,80,50,0.9);
 }
 tbody {
   color: rgba(40,30,30,1);
@@ -26,6 +27,8 @@ th, tr, td {
   vertical-align: middle !important;
 }
 th {
+  color: rgba(120,110,100,1);
+  background-color: rgba(20,220,220,0.2);
   text-align: center !important;
 }
 
